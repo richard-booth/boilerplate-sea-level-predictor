@@ -1,7 +1,7 @@
 # Assignment: Sea Level Predictor
 This assignment provides a data set on sea level measurements by year from 1880-2013. The task is to make a scatter plot of the data, and add two linear regression lines that illustrate how sea levels might rise up to 2050 if trends continue. The first (red) line is based on the whole 1880-2013 trend, and extends it to 2050. The second (blue) line is based on the trend from 2000-2013, and extends it to 2050.
 
-See the [notebook](https://github.com/richard-booth/sea-level-predictor/blob/main/sea_level_predictor.ipynb) (`sea_level_predictor.ipynb`) for a walk-through of the solution, which is contained in `sea_level_predictor.py`.
+See the [notebook](https://github.com/richard-booth/sea-level-predictor/blob/main/sea_level_predictor.ipynb) (`sea_level_predictor.ipynb`) for a walk-through of my solution, which is contained in `sea_level_predictor.py`.
 
 ## Instructions:
 
